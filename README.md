@@ -1,10 +1,11 @@
 ### Hi there 👋
+<br>
 
 <h1><img src="https://www.flaticon.com/svg/vstatic/svg/742/742923.svg?token=exp=1616794262~hmac=8e5661ece1947e7168c144866a3f473b" width="30"/> Hola! Gracias por visitar mi perfil.</h1>
 <br>
 <p> Soy <b>Julieta, Frontend Developer </b> de Buenos Aires, Argentina. </p>
 <br>
-<h5>Estas son las herramientas que uso actualmente para programar</h5>
+<h4>Estas son algunas de las herramientas que uso actualmente para programar</h4>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" /> 
@@ -18,6 +19,13 @@
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-fcd616?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-ffca28?style=flat-square&logo=Firebase&logoColor=white" />
+  <br>
+  <br>
+  <img alt=".NET" src="https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=.NET&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-007393?style=flat-square&logo=Java&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  
 </p>
 <!--
 **julietalazzaro/julietalazzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
