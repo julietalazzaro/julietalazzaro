@@ -6,7 +6,7 @@
 <p> Soy <b>Julieta, Frontend Developer </b> de Buenos Aires, Argentina. Me encanta la tecnología, programar y por sobre todo, la idea de poder crear algo desde cero.</p>
 <h4>Estas son algunas de las herramientas que uso actualmente para programar:</h4>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/-CSS3-46a2f1?style=flat-square&logo=css3&logoColor=white" /> 
   <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
@@ -23,11 +23,11 @@
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-007393?style=flat-square&logo=Java&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" /></a>
 </p>
 
 <p>
-    En mi tiempo libre hago impresiones 3D, busco proyectos con arduino y Raspberry y juego Videojuegos ❤️
+    En mi tiempo libre hago impresiones 3D, proyectos con arduino y Raspberry y juego Videojuegos ❤️
 </p>
 <!--
 **julietalazzaro/julietalazzaro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
