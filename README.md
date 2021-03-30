@@ -1,7 +1,7 @@
 ### Hi there 👋
 <br>
 
-<h1><img src="https://www.flaticon.com/svg/vstatic/svg/742/742923.svg?token=exp=1616794262~hmac=8e5661ece1947e7168c144866a3f473b" width="30"/> Hola! Gracias por visitar mi perfil.</h1>
+<h1>😃 Hola! Gracias por visitar mi perfil.</h1>
 <br>
 <p> Soy <b>Julieta, Frontend Developer </b> de Buenos Aires, Argentina. Me encanta la tecnología, programar y por sobre todo, la idea de poder crear algo desde cero.</p>
 <h4>Estas son algunas de las herramientas que uso para programar:</h4>
